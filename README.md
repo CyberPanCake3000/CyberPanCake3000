@@ -1,6 +1,5 @@
-## 🙋‍♀️ Hi!
-My name is Erzhena, and I'm from Buryatia, Russia.
-- 👩‍💻 I'm a passionate **Fullstack Developer**
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hi! I am Erzhena
+- 👩‍💻 I'm a passionate **Backend Developer**
 - 💖 Love learning new technologies
 - 🧠 Web design, AI and ML enthusiast
 ---
